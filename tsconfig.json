@@ -6,6 +6,7 @@
     "importHelpers": true,
     "declaration": true,
     "sourceMap": true,
+    "rootDir": "./",
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -23,6 +24,7 @@
       "*": ["src/*", "node_modules/*"]
     },
     "esModuleInterop": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "useUnknownInCatchVariables": false
   }
 }
