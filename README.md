@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/capricorn-swap/cap-swap-sdk.git
+git clone https://github.com/capricorn-swap/capricorn-swap-sdk.git
 ```
 
-Move into the cap-swap-sdk working directory
+Move into the capricorn-swap-sdk working directory
 
 ```sh
-cd cap-swap-sdk/
+cd capricorn-swap-sdk/
 ```
 
 Install dependencies
